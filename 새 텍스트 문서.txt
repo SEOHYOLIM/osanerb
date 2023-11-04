@@ -1,0 +1,9 @@
+<script>
+k = 1000000000
+document.write(new Data() +"<br>")
+for (i = 1;i<=10000;i++){
+  sum = sum + i
+}
+document.write("1 to"+k+"sum is"+sum+"<br>")
+document.write(new Data() +"<br>")
+</script>
